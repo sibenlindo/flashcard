@@ -47,15 +47,7 @@ body {
     color: var(--text-color);
     font-weight: 500;
 }
-
-.cartao__conteudo__resposta p {
-    color: var(--card-back-color);
-    font-weight: 700;
-}
-
-footer {
-    background-color: black;
-    color: white;
+olor: white;
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -67,3 +59,11 @@ footer p {
     font-size: 0.6rem;
     margin-top: 0.5rem;
 }
+.cartao__conteudo__resposta p {
+    color: var(--card-back-color);
+    font-weight: 700;
+}
+
+footer {
+    background-color: black;
+    c
